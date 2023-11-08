@@ -9,7 +9,7 @@ body {
     height: 500px;
     width: 100%;
     /* background image for header */
-    background-image: url(images/gettyimages-658448738-612x612.jpg);
+    background-image: url(/images/gettyimages-658448738-612x612.jpg);
     background-size: cover;
     background-position: center;
 }
