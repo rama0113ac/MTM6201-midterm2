@@ -9,7 +9,7 @@ body {
     height: 500px;
     width: 100%;
     /* background image for header */
-    background-image: url(/images/gettyimages-658448738-612x612.jpg);
+    background-image: url(images/gettyimages-658448738-612x612.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -159,13 +159,13 @@ body {
     grid-template-columns: repeat(2, 1fr);
 }
 
-.enfo {
+.information {
     margin: 30px;
     background-color: rgb(204, 250, 235);
     border: 2px solid black;
 }
 
-.enfo:hover {
+.information:hover {
     transition: transform 1s;
     transform: translateX(20px);
     color: white;
